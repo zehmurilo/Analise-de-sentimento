@@ -1,0 +1,1 @@
+While not in your code, another hard-to-spot error is when the % character is missing in an attempt of string formatting: very batata

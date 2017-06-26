@@ -1,0 +1,19 @@
+Document 1 Increment Value: 0 Decrement Value: 0 Inverse Value: 0 Positive words: 0 Negative words: 0 Neutral words: 56 Sentimental Score: 0.0
+Document 2 Increment Value: 1 Decrement Value: 0 Inverse Value: 1 Positive words: 0 Negative words: 1 Neutral words: 27 Sentimental Score: -1.0
+Document 3 Increment Value: 4 Decrement Value: 1 Inverse Value: 0 Positive words: 0 Negative words: 3 Neutral words: 16 Sentimental Score: -4.0
+Document 4 Increment Value: 1 Decrement Value: 0 Inverse Value: 0 Positive words: 8 Negative words: 12 Neutral words: 234 Sentimental Score: -5.0
+Document 5 Increment Value: 0 Decrement Value: 0 Inverse Value: 0 Positive words: 4 Negative words: 1 Neutral words: 239 Sentimental Score: 3.0
+Document 6 Increment Value: 0 Decrement Value: 0 Inverse Value: 0 Positive words: 4 Negative words: 1 Neutral words: 234 Sentimental Score: 3.0
+Document 7 Increment Value: 0 Decrement Value: 0 Inverse Value: 0 Positive words: 4 Negative words: 1 Neutral words: 239 Sentimental Score: 3.0
+Document 8 Increment Value: 0 Decrement Value: 0 Inverse Value: 1 Positive words: 7 Negative words: 2 Neutral words: 266 Sentimental Score: 3.0
+Document 9 Increment Value: 0 Decrement Value: 0 Inverse Value: 0 Positive words: 4 Negative words: 3 Neutral words: 216 Sentimental Score: 1.0
+Document 10 Increment Value: 0 Decrement Value: 0 Inverse Value: 0 Positive words: 0 Negative words: 2 Neutral words: 118 Sentimental Score: -2.0
+
+Total de documentos analisados: 10
+ Total de palavras incrementais: 6
+ Total de palavras decrementais: 1
+ Total de palavras inversas: 2
+ Total de palavras positivas: 31
+ Total de palavras negativas: 26
+ Total de palavras neutras: 1645
+ Sentimental Score Total: 1.0

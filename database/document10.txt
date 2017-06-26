@@ -1,0 +1,5 @@
+[27]  arXiv:1705.04155 [pdf, ps, other]
+Nonempty space auto-rotations for metric heat creation and modified Navier-Stocks equation for conceptual tests of nondual field matter
+I.E. Bulyzhenkov
+Subjects: General Physics (physics.gen-ph)
+Continuous material space in the nondual field physics of Einstein and Infeld replaces the assumed emptiness between point particles in the Newton model of reality. The elementary kinetic mass-energy of circular metric flows originates due to the exact compensation by their negative self-gravitation energy. The Einstein equation analog for nonequilibrium field densities of moving nondual matter results in the vector geodesic relations for metric mass-energy flows that modifies the Navier-Stocks equation by the 1738 Bernoulli potential.

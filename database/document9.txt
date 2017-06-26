@@ -1,0 +1,6 @@
+[28]  arXiv:1705.04184 [pdf]
+Spatial Scales of Living Cells, their Energetic and Informational Capacity and the Origin of the Arrow of Time
+Edward Bormashenko, Alexander Voronel
+Comments: 14 pages, 1 figure
+Subjects: Biological Physics (physics.bio-ph)
+Physical thermodynamic and kinetic, chemical and biological reasoning restrict the spatial dimensions of living cells and confine them to between one and one hundred micrometers. Cells should necessarily be macroscopic, dissipative objects, resisting thermal fluctuations and providing sufficient informational capacity. The upper limit of spatial dimensions of cells is supplied by their ability to withstand gravity and inertia forces under reasonable deformations. The upper limit of cell dimensions is also governed by the hierarchy of characteristic time scales, inherent for mass and heat transport. For micron-scaled cells, the traffic time (namely a typical time necessary for the migration of one enzyme to another) is on the order of magnitude of a millisecond, which coincides with the characteristic time scale of a single round of the catalytic enzyme cycle. Among other important consequences the macroscopic dimensions of living cells seen as dissipative systems) give rise to the irreversibility of biological processes, demonstrating the arrow of time.
